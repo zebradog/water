@@ -1,1 +1,0 @@
-Updated version of Edouard Coulon's WaterStretch demo: http://waterstretch.ecoulon.com/
